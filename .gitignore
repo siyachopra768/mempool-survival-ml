@@ -1,0 +1,4 @@
+mempool_rsf_model.pkl
+synthetic_mempool_dumpster.csv
+*.pkl
+__pycache__/
